@@ -1,7 +1,5 @@
 ### Hello, I'm Yotam 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on learning sfml graphics
 - 🌱 I’m currently learning linux,c,c++,python and c#
 - 👯 I’m looking to collaborate on anywhere I think it whould help me to gain experience 
