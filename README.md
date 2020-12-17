@@ -1,5 +1,4 @@
 ### Hello, I'm Yotam 👋
-![](https://komarev.com/ghpvc/?username=yotam5)
 
 Here are some ideas to get you started:
 
