@@ -1,5 +1,5 @@
 ### Hello, I'm Yotam 👋
-![](https://komarev.com/ghpvc/?username=yotam5)
+![Visitor Count](https://profile-counter.glitch.me/{yotam5}/count.svg)
 
 Here are some ideas to get you started:
 
