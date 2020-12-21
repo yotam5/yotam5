@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with linux and c/c++
 - 💬 Ask me about anything that in my learning I'll be happy to help if I can
 - 📫 How to reach me: yyoram8@gmail.com
--👯 I want to collaborate with: Any one who whould like to
 - ⚡ Fun fact: I made snake in Asm 8086 on DosBox and I can do more than 30 pull ups
 
 
