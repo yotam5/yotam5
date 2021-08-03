@@ -2,7 +2,7 @@
 #### 11th grade student with passion for programming and sport
 ![11th grade student with passion for programming and sport](https://www.linkpicture.com/q/2020-12-17_17-53.png)
 
-- 🔭 I’m currently working on learning sfml graphics
+- 🔭 I’m currently working on learning networking in c/cpp and python
 - 🌱 I’m currently learning linux,c,c++,python and c#
 - 👯 I’m looking to collaborate on anywhere, I think it will help me to gain experience 
 - 🤔 I’m looking for help with linux and c/c++
