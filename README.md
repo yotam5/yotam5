@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I made snake in Asm 8086 on DosBox and I can do more than 30 pull ups
 
 
-Skills: C C++ ASM Python C# linux
+Skills: C C++ ASM Python C# linux and googling
 
 
 
