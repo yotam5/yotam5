@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yotam
-#### 11th grade student with passion for programming and sport
-![11th grade student with passion for programming and sport](https://www.linkpicture.com/q/2020-12-17_17-53.png)
+#### 12th grade student with passion for programming and sport
+![12th grade student with passion for programming and sport](https://www.linkpicture.com/q/2020-12-17_17-53.png)
 
 - 🔭 I’m currently working on learning networking in c/cpp and python
 - 🌱 I’m currently learning linux,c,c++,python and c#
