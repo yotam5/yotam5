@@ -12,7 +12,7 @@
 
 Skills: C C++ ASM Python C# linux and googling
 
-
+![](https://hit.yhype.me/github/profile?user_id=69643410)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yotam5)  
 
